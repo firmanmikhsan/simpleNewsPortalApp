@@ -1,16 +1,16 @@
-# newsMan
+# amazingFlutterApp
 
-A new Flutter project.
+Project membuat App kalkulator sederhana dengan Flutter.
 
-## Getting Started
+```
+Penyusun
+Nama             : Firman Muhamad Ikhsan
+NPM              : 18111197
+Kelas            : TIF RM 18 CID-A
+Perguruan Tinggi : Sekolah Tinggi Teknologi Bandung
+```
+referensi:
+- [https://www.material.io/components](https://www.material.io/components)
+- [https://medium.com/@mohammedijas/circle-image-avatar-with-border-in-flutter-513cdf82df43](https://medium.com/@mohammedijas/circle-image-avatar-with-border-in-flutter-513cdf82df43)
+- [https://medium.com/@alamsyah15/flutter-dropdown-menu-button-ee6ad020f922](https://medium.com/@alamsyah15/flutter-dropdown-menu-button-ee6ad020f922)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

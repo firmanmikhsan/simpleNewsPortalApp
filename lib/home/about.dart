@@ -26,7 +26,7 @@ class About extends StatelessWidget {
               children: [
                 Container(
                   padding: EdgeInsets.all(15.0),
-                  child: Text("Aplikasi News MaaN adalah aplikasi portal berita yang dimana berita yang disajikan adalah berita seputar hobby seperti: game, musik, toy's, gadget, technology.\n\nFitur yang disajikan juga beragam, antara lain beranda, detail berita, pencairan berita, login/register, dan update profile serta user dapat mengomentari berita.\n\nAlur dari aplikasi ini secara garis besar user bisa melihat berita tanpa harus login, namun user diharuskan login jika ingin update profile, berkomentar",
+                  child: Text("Aplikasi News MaaN adalah aplikasi portal berita yang dimana berita yang disajikan adalah berita seputar hobby seperti: game, musik, toy's, gadget, technology.\n\nFitur yang disajikan juga beragam, antara lain beranda, detail berita, pencairan berita, login/register, dan update profile serta user dapat mengomentari berita.\n\nAlur dari aplikasi ini secara garis besar user bisa melihat berita tanpa harus login, namun user diharuskan login jika ingin update profile dan berkomentar.",
                   style: TextStyle(
                       color: Colors.grey,
                       fontSize: 15,
