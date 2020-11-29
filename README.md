@@ -1,6 +1,6 @@
-# amazingFlutterApp
+# NewS MaaN
 
-Project membuat App kalkulator sederhana dengan Flutter.
+Project membuat aplikasi portal sederhana menggunakan flutter.
 
 ```
 Penyusun
