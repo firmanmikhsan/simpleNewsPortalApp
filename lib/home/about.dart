@@ -41,7 +41,7 @@ class About extends StatelessWidget {
                       Center(
                         child: ListTile(
                           leading: Icon(Icons.copyright),
-                          title: Text("Firman Muhamad Ikhsan - 18111197", style: TextStyle(color: Colors.grey),),
+                          title: Text("Copyright by: Firman Muhamad Ikhsan - 18111197", style: TextStyle(color: Colors.grey),),
                         ),
                       )
                     ],
